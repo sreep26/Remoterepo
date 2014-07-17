@@ -5,6 +5,8 @@ public class first {
 		// TODO Auto-generated method stub
 		System.out.println("first line");
 		System.out.println("seond line");
+		System.out.println("third line");
+
 
 	}
 
